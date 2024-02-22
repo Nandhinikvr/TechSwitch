@@ -1,0 +1,33 @@
+
+[{
+    $type: "Tfl.Api.Presentation.Entities.Prediction, Tfl.Api.Presentation.Entities",
+    id: "-1464558780",
+    operationType: 1,
+    vehicleId: "LA19KAK",
+    naptanId: "490008660N",
+    stationName: "Lady Somerset Road",
+    lineId: "214",
+    lineName: "214",
+    platformName: "GY",
+    direction: "inbound",
+    bearing: "316",
+    destinationNaptanId: "",
+    destinationName: "Highgate Village",
+    timestamp: "2024-01-18T12:14:47.1856076Z",
+    timeToStation: 1093,
+    currentLocation: "",
+    towards: "Highgate Village Or Parliament Hill Fields",
+    expectedArrival: "2024-01-18T12:33:00Z",
+    timeToLive: "2024-01-18T12:33:30Z",
+    modeName: "bus",
+    timing: {
+    $type: "Tfl.Api.Presentation.Entities.PredictionTiming, Tfl.Api.Presentation.Entities",
+    countdownServerAdjustment: "-00:00:04.9193893",
+    source: "2024-01-18T11:43:49.231Z",
+    insert: "2024-01-18T12:14:32.558Z",
+    read: "2024-01-18T12:14:27.596Z",
+    sent: "2024-01-18T12:14:47Z",
+    received: "0001-01-01T00:00:00Z"
+    }
+    }
+]

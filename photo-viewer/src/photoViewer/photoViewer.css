@@ -1,0 +1,17 @@
+img{
+    width: 20%;
+    border: 5px solid grey;
+    margin: 2px;
+
+}
+.zoomedImage{
+    width:60%;
+    border: 8px solid rgb(203, 139, 139);
+
+}
+.paraText2{
+    color: blueviolet;
+}
+h2{
+    margin-left: 5px;
+}
